@@ -1,0 +1,12 @@
+pandas==2.2.1
+numpy==1.23.5
+scikit-learn==1.4.2
+matplotlib==3.6.3
+seaborn==0.12.2
+tqdm==4.66.1
+sentence-transformers==2.7.0
+faiss-cpu==1.7.4
+faiss-gpu==1.7.4
+openai==1.23.2
+notebook==6.5.4
+ipykernel==6.29.0
